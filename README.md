@@ -10,3 +10,4 @@ A simple UML Editor created with Java & Java Swing. It was a project of the cour
 
 
 Will update this repo soon...
+Class and sequence diagrams also need updating due to some change in code.
