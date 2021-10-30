@@ -1,5 +1,5 @@
 # UML-Editor
-A simple UML Editor created with Java & Java Swing. It was a project of the course Object Oriented Analysis and Design (2021 Spring) from NCU CSIE.
+A simple UML Editor created with Java & Java Swing. It was a project of the course Object Oriented Analysis and Design (2021 Spring) from NCU CSIE. It was the **best** course I've ever taken.
 
 ### Important: Current OOAD students, don't cheat! Or you are avoiding yourself from learning something really important. 
 ### 
